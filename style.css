@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(./51811.jpg);
+    font-family: 'Water Brush', cursive;
+}
+.sub-body{
+
+    margin: 150px auto;
+
+    height: 3200px;
+    width:auto;
+}
+.sub-container{
+margin: 150px auto;
+width: 3000px;
+height: 3100px;
+background-color: rgb(243, 235, 235);
+}
+.h1{
+    font-size: 200px;
+    font-family: 'Oswald', sans-serif;
+}
+.h{
+    font-size: 200px;
+    
+    font-family: 'Square Peg', cursive;
+    position: relative;
+    left: 750px;
+    bottom: 10px;
+}
+img{
+    border-radius: 60%;
+    position: relative;
+    left:2300px;
+    bottom: 450px;
+}
+p{
+    font-size: 100px;
+    position: relative;
+    bottom: 700px;
+    left: 50px;
+}
+.hr{
+    position: relative;
+    bottom: 500px;
+    width: 2800px;
+    left: 75px;
+}
+.h2{
+    font-size: 50px;
+    position: relative;
+    bottom: 400px;
+    left: 50px;
+    margin: 50px;
+}
+.hr2{
+    width: 500px;
+    left: 400px ;
+    position: relative;
+    bottom: 300px;
+}
+.p{
+    font-size: 80px;
+    position: relative;
+    bottom: 200px;
+    left: 100px;
+}
+h2{
+    font-size: 60px;
+    position: relative;
+    left: 60px;
+    bottom: 100px;
+}
+h3{
+    font-size: 50px;
+    position: relative;
+    left: 380px;
+    bottom: 50px;
+}
+.hr1{
+    width: 500px;
+    left: 400px ;
+    position: relative;
+    top: 20px;
+}
+.h4{
+    font-size: 50px;
+    position: relative;
+    top:150px;
+    left: 250px;
+    margin: 50px;
+}
+.p1{
+    font-size: 80px;
+    position: relative;
+    top:100px;
+    left: 420px;
+}
+.h5{
+    font-size: 50px;
+    position: relative;
+    left: 320px;
+    bottom: 400px;
+    margin: 50px;
+}
+.h6{
+    font-size: 50px;
+    position: relative;
+    left: 60px;
+    bottom: 400px;
+    margin: 50px;
+}
+.h7{
+    font-size: 50px;
+    position: relative;
+    top:150px;
+    left: 210px;
+    margin: 50px;
+}
+.h8{
+    font-size: 50px;
+    position: relative;
+    top:150px;
+    left: 420px;
+    margin: 50px;
+}
+.hr3{
+    -webkit-transform: rotate(90deg);      
+    -moz-transform: rotate(90deg);       
+    -ms-transform: rotate(90deg);        
+    -o-transform: rotate(90deg);
+    width: 1800px;
+    position: relative;
+    bottom: 800px;
+    left: 100px;
+}
+.p2{
+    font-size: 80px;
+    position: relative;
+    bottom: 1700px;
+    left: 1200px;
+}
+.h9{
+    font-size: 60px;
+    position: relative;
+    left: 1200px;
+    bottom: 1600px;
+}
+.h3{
+    font-size: 60px;
+    position: relative;
+    bottom: 150px;
+    left: 70px;
+}
+.h10{
+    font-size: 50px;
+    position: relative;
+    left: 480px;
+    bottom: 50px;
+}
