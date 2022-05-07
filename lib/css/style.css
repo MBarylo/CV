@@ -279,14 +279,11 @@ h3{
         height: 90em;
     }
     .hr{
-        width: 17em;
+        width: 100%;
     }
     .hr3{
-        -webkit-transform: rotate(0deg);      
-        -moz-transform: rotate(0deg);       
-        -ms-transform: rotate(0deg);        
-        -o-transform: rotate(0deg);
-        width: 17em;
+        
+        width: 100%;
     }
     .sec4{
         display: flex;
@@ -336,7 +333,7 @@ h3{
         font-size: 1em;
     }
     .h9{
-        width: 15em;
+        width: 10em;
         height: 10em;
         
     }
